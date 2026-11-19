@@ -1,0 +1,4 @@
+segment,customers,recency,frequency,monetary,churn_rate
+0,2809,117.0,6.0,257.08,0.23
+1,1631,259.0,1.0,56.15,0.6
+2,560,81.0,0.0,0.0,0.18
